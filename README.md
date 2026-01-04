@@ -15,10 +15,10 @@ This project features a comprehensive **Executive Sales Dashboard** built in Mic
 
 ## 📁 Project Structure
 
-* **[Data/](data/)** – Contains the raw dataset used for the analysis.
-* **[Dashboard/](dashboard/)** – Includes the final `Super_Store_Analysis_Dashboard.xlsx` file.
-* **[Images/](images/)** – High-resolution dashboard screenshots.
-* **[Main Project File](Super_store_sales_project.xlsx)** – Direct link to the primary Excel workbook.
+* **Raw data** – Contains the raw dataset used for the analysis.
+* **Dashboard** – Includes the final `Super_Store_Analysis_Dashboard.xlsx` file.
+* **Readme ** – Readme file
+* **Project file** – Primary Excel [roject workbook.
 
 ---
 
